@@ -1,4 +1,4 @@
-# IA_regressao
+# Regressão Linear e Gradiente Descendente
 
 Utilização e comparação das técnica de Regressão, com o Gradiente descendente e Regressão Linear, para predição de valores de carro usados da Ford.
 
